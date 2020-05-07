@@ -42,7 +42,7 @@ header h1 .seo {
 }
 
 /* Navigation list */
-header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -50,19 +50,19 @@ header div {
     font-size: 20px;
 }
 
-/* Divider for Navigation list */
-header div ul {
+/* Beginning for Navigation list */
+nav ul {
     list-style-type: none;
 }
 
 /* Specific Navigation buttons */
-header div ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* Main Image */
-nav img {
+.main img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
